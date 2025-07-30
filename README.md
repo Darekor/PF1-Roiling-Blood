@@ -1,4 +1,4 @@
-### Roiling Blood
+# Roiling Blood
 Learned disciples of Roiling Blood are monstrous combatants, not only able to  endure wounds that would finish off lesser warriors, but draw power from them. Be it  heroic second wind, grim determination, bubbling fury or pure hatred to those who wounded him – disciples of the Roiling Blood can become even more dangerous, when gravely wounded. Roiling Blood’s associated skill is *Heal*, and its associated weapon groups are *Axes*, *Natural Weapons*, *Heavy Blades*. 
-# Fury
+### Fury
 Disciples of Roiling Blood are furious warriors, and many of their maneuvers gain an added benefit if the disciple has his current hit points equal or less then half of his hit point maximum, which is called **Fury**. Whether the maneuver grants it’s **Fury** effect is determined after the self damage from the maneuver applies, but before any other effects of maneuver or stance are applied. For counters, boosts and strikes **Fury** effects that have a duration are determined once the effect is applied, and are not affected by changes in initiator’s health afterwards. For Stances, current health of the initiator determines whether or not **Fury** effect is active, regardless of hit points, which were present when the stance was entered. In effect, that means you may take self damage with the maneuver, to activate it’s own **Fury** bonus.
